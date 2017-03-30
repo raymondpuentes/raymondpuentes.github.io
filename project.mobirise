@@ -7,9 +7,9 @@
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
+        "secondaryColor": "#3d8eb9",
         "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "infoColor": "#3d8eb9",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 133,
+    "uniqCompNum": 134,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -194,20 +194,18 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">INTRODUCTION</a>   "
         },
         {
-          "_inherit": "msg-box5",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-3o",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-3p",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "parallax": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#9dcbe4",
+            "bgColor": "#7ba2b7",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -215,33 +213,22 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=ywSzUqi7dP4",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=ywSzUqi7dP4\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO HERE</a>",
+          "text": "",
+          "title": "<i>Intro Video</i>",
+          "_styles": {
+            "I": {
+              "text-align": "center",
+              "font-size": "48px",
+              "color": "#ffffff"
             }
-          },
-          "title": "Welcome Video",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          }
         },
         {
           "_styles": {
@@ -415,7 +402,7 @@
           "text4": "raymondpuentes@gmail.com",
           "title1": "Categories",
           "text5": "<li><a href=\"introduction.html\">Introduction</a></li><li><a href=\"photoshop.html\">Photoshop</a></li><li><a href=\"illustrator.html\">Illustrator</a></li><li><a href=\"premiere_pro.html\">Premiere</a></li><li><a href=\"microsoft_office.html\">Microsoft</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: raymondpuentes@gmail.com<br>Phone: (786) - 663 - 0916<br><br><br><strong>Address</strong><br>4900 SW 97 CT<br>Miami, FL 33165<br>",
+          "text6": "<strong>Contacts</strong><br>Email: raymondpuentes@gmail.com<br>Phone: (786) - 663 - 0916<br>Youtube Channel: Raymond Puentes<br><br><br><strong>Address</strong><br>4900 SW 97 CT<br>Miami, FL 33165<br>",
           "form": {
             "title": "MESSAGE",
             "action": "rpuentes@miamiartsstudio.com",
