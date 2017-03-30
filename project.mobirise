@@ -577,8 +577,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/raymond-puentes-rhinos-life-2000x2000-800x8000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/raymond-puentes-rhinos-life-2000x20001.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/raymond-puentes-rhinos-life-2000x2000-800x8003.jpg",
+                "image": "@PROJECT_PATH@/assets/images/raymond-puentes-rhinos-life-2000x20004.jpg",
                 "caption": "Rhino's Life - 2nd Place at Youth Fair",
                 "active": false
               },
@@ -588,7 +588,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/raymond-puentes-perspective-build-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/raymond-puentes-perspective-build-2000x20002.jpg",
+                "image": "@PROJECT_PATH@/assets/images/raymond-puentes-perspective-build-2000x20005.jpg",
                 "caption": "Perspective Build - Mars",
                 "active": false
               },
