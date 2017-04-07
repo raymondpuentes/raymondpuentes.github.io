@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PORTFOLIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere_pro.html\">Adobe Premiere Pro</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft_office.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raymondpuentes.github.io/Raymond Puentes Discuss IT Topic 6.pdf\">DiscussIT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D Autodesk</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Industry Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://raymondpuentes.github.io/photoshop.pdf\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raymondpuentes.github.io/ic3.pdf\">IC3</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CPR</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 4</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOLLOW ME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCGACWWvoJQjaPFOmJa8u8Gw\">YouTube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.linkedin.com/in/raymond-puentes-9b8b0411b/\">LinkedIn</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact_me.html\">CONTACT ME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"premiere_pro.html\" data-toggle=\"dropdown-submenu\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=VOULbR6W1gM&amp;feature=youtu.be\" target=\"_blank\">Believer - Imagine Dragons</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft_office.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raymondpuentes.github.io/Raymond Puentes Discuss IT Topic 6.pdf\">DiscussIT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D Autodesk</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://raymondpuentes.github.io/photoshop.pdf\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raymondpuentes.github.io/ic3.pdf\">IC3</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CPR</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 4</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOLLOW ME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCGACWWvoJQjaPFOmJa8u8Gw\">YouTube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.linkedin.com/in/raymond-puentes-9b8b0411b/\">LinkedIn</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact_me.html\">CONTACT ME</a></li>"
         },
         {
           "_name": "footer1",
@@ -198,6 +198,13 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "I": {
+              "text-align": "center",
+              "font-size": "48px",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box1-3p",
           "_params": {
             "paddingTop": "1",
@@ -221,14 +228,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=ywSzUqi7dP4\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO HERE</a>",
           "text": "",
-          "title": "<i>Intro Video</i>",
-          "_styles": {
-            "I": {
-              "text-align": "center",
-              "font-size": "48px",
-              "color": "#ffffff"
-            }
-          }
+          "title": "<i>Intro Video</i>"
         },
         {
           "_styles": {
@@ -577,8 +577,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/raymond-puentes-rhinos-life-2000x2000-800x8003.jpg",
-                "image": "@PROJECT_PATH@/assets/images/raymond-puentes-rhinos-life-2000x20004.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/raymond-puentes-rhinos-life-2000x2000-800x8000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/raymond-puentes-rhinos-life-2000x20001.jpg",
                 "caption": "Rhino's Life - 2nd Place at Youth Fair",
                 "active": false
               },
@@ -588,7 +588,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/raymond-puentes-perspective-build-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/raymond-puentes-perspective-build-2000x20005.jpg",
+                "image": "@PROJECT_PATH@/assets/images/raymond-puentes-perspective-build-2000x20002.jpg",
                 "caption": "Perspective Build - Mars",
                 "active": false
               },
