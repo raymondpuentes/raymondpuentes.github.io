@@ -379,7 +379,7 @@
               "family": "et-line"
             }
           },
-          "text2": "(786) - 663 - 0916",
+          "text2": "(786) - 000 - 0000",
           "media2": {
             "iconFont": {
               "active": true,
@@ -389,7 +389,7 @@
               "family": "et-line"
             }
           },
-          "text3": "4900 SW 97 CT, Miami, FL 33165",
+          "text3": "1234 SW 01 CT, Miami, FL 12345",
           "media3": {
             "iconFont": {
               "active": true,
@@ -399,10 +399,10 @@
               "family": "et-line"
             }
           },
-          "text4": "raymondpuentes@gmail.com",
+          "text4": "rpuentes@miamiartsstudio.com",
           "title1": "Categories",
           "text5": "<li><a href=\"introduction.html\">Introduction</a></li><li><a href=\"photoshop.html\">Photoshop</a></li><li><a href=\"illustrator.html\">Illustrator</a></li><li><a href=\"premiere_pro.html\">Premiere</a></li><li><a href=\"microsoft_office.html\">Microsoft</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: raymondpuentes@gmail.com<br>Phone: (786) - 663 - 0916<br>Youtube Channel: Raymond Puentes<br><br><br><strong>Address</strong><br>4900 SW 97 CT<br>Miami, FL 33165<br>",
+          "text6": "<strong>Contacts</strong><br>Email: rpuentes@miamiartsstudio.com<br>Phone: (786) - 000 - 0000<br>Youtube Channel: Raymond Puentes<br><br><br><strong>Address</strong><br>1234 SW 01 CT<br>Miami, FL 12345<br>",
           "form": {
             "title": "MESSAGE",
             "action": "rpuentes@miamiartsstudio.com",
@@ -577,8 +577,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/raymond-puentes-rhinos-life-2000x2000-800x8003.jpg",
-                "image": "@PROJECT_PATH@/assets/images/raymond-puentes-rhinos-life-2000x20004.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/raymond-puentes-rhinos-life-2000x2000-800x8000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/raymond-puentes-rhinos-life-2000x20001.jpg",
                 "caption": "Rhino's Life - 2nd Place at Youth Fair",
                 "active": false
               },
@@ -588,7 +588,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/raymond-puentes-perspective-build-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/raymond-puentes-perspective-build-2000x20005.jpg",
+                "image": "@PROJECT_PATH@/assets/images/raymond-puentes-perspective-build-2000x20002.jpg",
                 "caption": "Perspective Build - Mars",
                 "active": false
               },
